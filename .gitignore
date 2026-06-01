@@ -1,1 +1,10 @@
 .venv
+
+# DL assignment data
+
+0_DL/test/
+0_DL/train/
+0_DL/Classes_nummering.xlsx
+0_DL/sample_submission.csv
+0_DL/test.csv
+0_DL/train.csv
